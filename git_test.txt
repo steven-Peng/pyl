@@ -1,3 +1,2 @@
 test_pull
 test——冲突C
-test_合并解决冲突
